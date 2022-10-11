@@ -9,8 +9,7 @@
   - At the Github repository page, copy its URL
   - Type ```git clone``` and paste that URL   
 4. How to create a new branch and checkout to that branch ?
-  - ```git branch <branch_name>\ 
-  git checkout <branch_name>```
+  - ```git branch <branch_name>\ git checkout <branch_name>```
   - OR ```git checkout -b <branch_name>```
 6. 
 7.
