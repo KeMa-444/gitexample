@@ -2,7 +2,7 @@
 2. What is the basic steps to init a git repo in you local ?
   - Create a new directory which contains the project
   - Go into this directory (cd)
-  - ```git ```
+  - Type ```git init ```
 
 3.
 4.
