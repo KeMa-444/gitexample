@@ -6,6 +6,10 @@
   - Use ```git add .``` to add all files, or ```git add <file_name>``` to add a specific file
   - Use ```git commit``` to record changes to the repository
 
-3.
-4.
-5.
+3. How to clone a repo from Github ?
+  - At the Github repository page, copy its URL
+  - Type ```git clone``` and paste that URL   
+4. 
+6. 
+7.
+8.
