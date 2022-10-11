@@ -13,7 +13,7 @@
     git branch <branch_name> 
     git checkout <branch_name>
     ```
-  - OR ```git checkout -b <branch_name>```
-6. 
+  - Or ```git checkout -b <branch_name>```
+6. How to merge the branch_test to master branch in command ? show me the commands
 7.
 8.
