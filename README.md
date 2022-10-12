@@ -1,2 +1,6 @@
-Hello Welcome
-add new thing from new branch
+# Basic writing and formatting syntax
+
+**This is bold text**	
+*This text is italicized*	
+~~This was mistaken text~~	
+***All this text is important***	
