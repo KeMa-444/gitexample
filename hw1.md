@@ -2,9 +2,7 @@
 
 1. **Learn MarkDown and show all of basic usage in the ShortQuestions/README.md**
 
-2.  **Practice git using the platform. list the git commands you learned**
-
-   ```https://learngitbranching.js.org/```
+2.  **Practice git using the platform. list the git commands you learned** ```https://learngitbranching.js.org/```
 
    - ```git revert``` - it is a forward-moving undo operation by creating a new commit that inverses the changes
    - ```git reset``` - it is a undo operation which resets current HEAD to the specified state, should be used on a private branch
@@ -51,7 +49,7 @@
 
 9. **What is maven role ? what it be used to do?**
 
-   Maven is a tool that used for building and managing Java-based project. Maven's roles include manage dependencies, build project, documentation and reporting.
+   Maven is a tool that used for building and managing Java-based project. Maven's roles include managing dependencies, building project, documentation and reporting.
 
 10. **What is the lifecycle of maven? could you tell me the details?**
 
