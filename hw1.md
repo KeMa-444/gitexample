@@ -1,4 +1,4 @@
-## HW1 - Git, PR, Maven
+## HW1 - Git, Maven, PR
 
 1. **Learn MarkDown and show all of basic usage in the ShortQuestions/README.md**
 
