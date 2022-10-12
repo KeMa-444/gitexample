@@ -1,4 +1,4 @@
-## HW1 - Git, Maven, PR
+## HW1 - TEST CASE
 
 1. **Learn MarkDown and show all of basic usage in the ShortQuestions/README.md**
 
