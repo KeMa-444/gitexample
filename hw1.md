@@ -24,14 +24,14 @@
 
   - Or ```git checkout -b <branch_name>```
 
-6. **How to merge the branch_test to master branch in command ? **
+6. **How to merge the branch_test to master branch in command ?**
 
    ```
    git checkout master
    git merge branch_test
    ```
 
-7. **How to stash your new code before leaving branch branch_learn_stash and pop your stash when you checkout back to branch_learn_stash ? **
+7. **How to stash your new code before leaving branch branch_learn_stash and pop your stash when you checkout back to branch_learn_stash ?**
 
    ```
    git stash
