@@ -4,7 +4,8 @@
 *This text is italicized*	\
 ~~This was mistaken text~~	\
 ***All this text is important***\
-> Text that is a quote\
+> Text that is a quote
+
 Some basic Git commands are:
 ```
 git status
