@@ -3,7 +3,6 @@
 1. **Learn MarkDown and show all of basic usage in the ShortQuestions/README.md**
 
 2.  **Practice git using the platform. list the git commands you learned** https://learngitbranching.js.org/
-
    - ```git revert``` - it is a forward-moving undo operation by creating a new commit that inverses the changes
    - ```git reset``` - it is a undo operation which resets current HEAD to the specified state, should be used on a private branch
    - ```git cherry-pick``` - it picks a commit from one branch and applies it to another
