@@ -1,4 +1,7 @@
 # Basic writing and formatting syntax
+THIS IS HW1
+
+THIS IS HW2
 
 **This is bold text**\
 *This text is italicized*	\
