@@ -2,6 +2,7 @@
 THIS IS HW1
 
 THIS IS HW2
+
 **This is bold text**\
 *This text is italicized*	\
 ~~This was mistaken text~~	\
